@@ -37,6 +37,7 @@ Run the application using the following command, or by running it from the IDE.
 
 	docker run -p 5000:9001 spring-boot-dockerized-swagger-demo
 
+![image](https://github.com/user-attachments/assets/30a946ee-a625-46b6-a640-4c706fd05baa)
 
 ## Running the docker image in the background, in detached mode.
 
