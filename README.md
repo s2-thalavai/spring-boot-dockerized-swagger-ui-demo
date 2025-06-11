@@ -35,6 +35,15 @@ Run the application using the following command, or by running it from the IDE.
 
 ## Running the docker image
 
+### Docker Hub:
+
+	https://hub.docker.com/u/s2thalavai
+
+ ![image](https://github.com/user-attachments/assets/4d115366-5d3d-4934-b4fc-678ed38b42e8)
+
+
+![image](https://github.com/user-attachments/assets/fef282ac-f65d-4cf1-a33e-213ff953eca1)
+
 	docker run -p 5000:9001 spring-boot-dockerized-swagger-demo
 
 ![image](https://github.com/user-attachments/assets/30a946ee-a625-46b6-a640-4c706fd05baa)
